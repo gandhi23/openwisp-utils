@@ -11,7 +11,7 @@ branches:
     - master
 
 env:
-  - DJANGO="django>=2.0,<2.1"
+  - DJANGO2="django>=2.0,<2.1"
   - DJANGO="django>=1.11,<1.12"
 
 matrix:
